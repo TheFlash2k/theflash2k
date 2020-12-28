@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
+<summary><b>I play CTFs too :D</summary>
+<script src="https://tryhackme.com/badge/14512"></script>
+
 <!--
 <summary><b>Socials</summary>
 [![Linkedin Badge](https://img.shields.io/badge/-alitaqiwajid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alitaqiwajid/)](https://www.linkedin.com/in/alitaqiwajid/)
