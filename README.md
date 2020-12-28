@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <summary><b>The tools in my arsenal: </summary>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-
-<summary><b>Socials</summary>
-<img src="https://img.shields.io/twitter/follow/alitaqiwajid?label=Follow&style=social"/>
+<img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
 
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
