@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 -->
 <summary><b>I play CTFs too :D</summary>
+  <p align = "center">
   <summary><b>TryHackMe</b>: </summary>
-<p align = "center">
-  <img src="https://tryhackme.com/badge/14512">
+  <img src="TheFlash2k.png">
 </p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
