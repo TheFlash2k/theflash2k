@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <summary><b>I play CTFs too :D</summary>
 <img src="https://tryhackme-badges.s3.amazonaws.com/TheFlash2k.png" alt="TryHackMe">
+  <br>
 {{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
