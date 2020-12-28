@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+<summary><b>The tools in my arsenal: </summary>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+<summary><b>Socials</summary>
+<img src="https://img.shields.io/twitter/follow/alitaqiwajid?label=Follow&style=social"/>
+
+
+<summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=theflash2k&show_icons=true&theme=tokyonight&line_height=27">
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theflash2k&hide=css,java,html&theme=tokyonight">
 </p>
-
-</details>
