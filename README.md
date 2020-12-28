@@ -14,7 +14,13 @@
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
   <br>
-  <img src="TheFlash2k.png">
+  <img src="assets/thm.png">
+</p>
+  
+<p align="center">
+  <summary><b>HackTheBox</b>: </summary>
+  <br>
+  <img src="assets/htb.png">
 </p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
