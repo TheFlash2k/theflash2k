@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 <summary><b>The tools in my arsenal: </summary>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
 
+<summary><b>Socials</summary>
+[![Linkedin Badge](https://img.shields.io/badge/-alitaqiwajid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alitaqiwajid/)](https://www.linkedin.com/in/alitaqiwajid/)
+[![Instagram Badge](https://img.shields.io/badge/-alitaqiwajid-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alitaqiwajid/)](https://instagram.com/alitaqiwajid)
+[![Youtube Badge](https://img.shields.io/badge/-Ali%20Taqi-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/alitaqi)](https://www.youtube.com/c/alitaqi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
