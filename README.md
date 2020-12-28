@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 <summary><b>I play CTFs too :D</summary>
-![TryHackMe]("https://tryhackme.com/badge/14512")
+![TryHackMe](https://tryhackme.com/badge/14512)
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
