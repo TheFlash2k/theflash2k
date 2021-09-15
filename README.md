@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### About Me:
 - I'm a Student currently doing my Bachelors in Cyber Security.
-- I play CTFs to learn more about security.
 - Programmer.
 - Also, I produce Music which is trash but I try to make it :DD
 
