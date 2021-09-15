@@ -29,3 +29,9 @@
   <br>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theflash2k&hide=css,java,html&theme=tokyonight">
 </p>
+
+<summary><b>Contact Me</b>: </summary>
+<br>
+<p align = "center">
+  Discord: TheFlash2k#0407
+  </p>
