@@ -20,7 +20,7 @@
 <p align="center">
   <summary><b>HackTheBox</b>: </summary>
   <br>
-  <script src="https://www.hackthebox.eu/badge/250278"></script>
+  <img src="assets/htb.png">
 </p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
