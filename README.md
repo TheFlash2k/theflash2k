@@ -13,13 +13,13 @@
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
   <br>
-  <img src="assets/thm.png" alt="TryHackMe">
+  <img src="assets/tryhackme.png" alt="TryHackMe">
 </p>
   
 <p align="center">
   <summary><b>HackTheBox</b>: </summary>
   <br>
-  <img src="assets/htb.png">
+  <img src="assets/hackthebox.png">
 </p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
