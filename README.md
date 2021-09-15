@@ -32,6 +32,5 @@
 
 <summary><b>Contact Me</b>: </summary>
 <br>
-<p align = "center">
-  Discord: TheFlash2k#0407
-  </p>
+  Discord: <i>TheFlash2k#0407</i>
+</br>
