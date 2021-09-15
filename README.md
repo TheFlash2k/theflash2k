@@ -13,7 +13,7 @@
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
   <br>
-  <img src="assets/thm.png">
+  <img src="assets/thm.png" alt="TryHackMe">
 </p>
   
 <p align="center">
