@@ -1,8 +1,9 @@
 ### Hi there 👋
 #### About Me:
-- I'm a Student currently doing my Bachelors in Cyber Security.
-- Programmer.
-- Also, I produce Music which is trash but I try to make it :DD
+- Cyber Security Researcher
+- Enthusiast Programmer.
+- Also, I produce Music.
+- Also, I love to take photos.
 
 <!--
 <summary><b>The tools in my arsenal: </summary>
